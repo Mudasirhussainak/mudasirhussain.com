@@ -20,6 +20,7 @@ from welcome_page.views import welcome
 from contact_page.views import contact
 
 urlpatterns = [
-    path('',welcome),
+    path('https://mudasirhussainak.github.io/mudasirhussain.com/
+',welcome),
     path('contact',contact),
 ]
